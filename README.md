@@ -1,4 +1,4 @@
-# Senate
+# Senate Maps
 
 This repo has all currently running maps for Senate Pugs. If a map is missing, DM one of the admins.
 
